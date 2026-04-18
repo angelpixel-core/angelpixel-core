@@ -11,7 +11,7 @@ Systems-focused engineer who builds scalable products and resilient architecture
 
 ## Core Stack
 
-Ruby • Rails • TypeScript • React • Node • Nest
+Ruby • Rails • TypeScript • React • Node
 PostgreSQL • AWS • Infrastructure as Code
 
 ## Current Focus
@@ -20,4 +20,4 @@ PostgreSQL • AWS • Infrastructure as Code
 - Infrastructure automation and multi-environment setups
 - Shipping small, production-ready slices end-to-end
 
-Building at: angelpixel-core • angelpixel-labs
+Building at: @angelpixel-core
