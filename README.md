@@ -20,4 +20,4 @@ PostgreSQL • AWS • Infrastructure as Code
 - Infrastructure automation and multi-environment setups
 - Shipping small, production-ready slices end-to-end
 
-Building at: @angelpixel-core
+Building at: [@angelpixel-core](https://github.com/angelpixel-core/angelpixel-core)
