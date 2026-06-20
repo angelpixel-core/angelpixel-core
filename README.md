@@ -91,4 +91,5 @@ If you're building systems where reliability matters:
 
 - GitHub: https://github.com/angelpixel-core  
 - LinkedIn: https://linkedin.com/in/angelszymczak  
-- Email: contact@angelpixel.io
+- Email: angel.szymczak@hotmail.com
+- WebSite: http://angelszymczak.vercel.app
