@@ -68,9 +68,9 @@ A deterministic financial engine for modeling accounting and transaction flows.
 - CLI tooling and administrative visualization
 - Correctness, auditability, and traceability
 
-→ [View Repository](https://github.com/angelpixel-core)
+→ [View Repository]((https://github.com/angelpixel-core/financial-core-simulator))
 
-### 📦 Order & Payment Processing
+### 📦 Video-Clip Store App
 
 Domain-oriented systems modeling the lifecycle from catalog and ordering through payment, fulfillment, and delivery.
 
@@ -83,7 +83,7 @@ Domain-oriented systems modeling the lifecycle from catalog and ordering through
 - State transitions and failure recovery
 - Bounded contexts and explicit domain boundaries
 
-→ [Explore Projects](https://github.com/angelpixel-core)
+→ [Explore Projects]((https://github.com/angelpixel-core/store-app))
 
 ### ☁️ Cloud Platform & Infrastructure
 
@@ -98,7 +98,7 @@ Infrastructure projects focused on reproducible environments and application del
 - Multi-environment deployments
 - Cloud architecture and operational concerns
 
-→ [Explore Infrastructure Work](https://github.com/angelpixel-core)
+→ [Explore Infrastructure Work]((https://github.com/angelpixel-core/portfolio-infra-aws))
 
 ### 🤖 AI-enabled Systems
 
@@ -113,7 +113,7 @@ Experiments and production-oriented prototypes combining traditional software ar
 - Tool integrations
 - Evaluation and reliability concerns
 
-→ [Explore AI Work](https://github.com/angelpixel-core)
+→ [Explore AI Work]([https://github.com/angelpixel-core](https://github.com/angelpixel-core/chatbot-ai-rag-langchain))
 
 ---
 
@@ -178,7 +178,7 @@ PostgreSQL · Redis · Kafka
 
 **Cloud & Infrastructure**
 
-AWS · Docker · Pulumi · CI/CD
+AWS · Azure · Docker · Terraform · Pulumi · CI/CD
 
 **Architecture**
 
